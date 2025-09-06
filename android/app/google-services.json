@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543415277890",
+    "project_id": "emaillink-c3ec5",
+    "storage_bucket": "emaillink-c3ec5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543415277890:android:aebc5fb002742e8ed910db",
+        "android_client_info": {
+          "package_name": "com.example.emaillink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqz3nS2z-gVHdUxsPeWKpveeTjdYgboZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543415277890:android:d12dd7960f2c3b7ed910db",
+        "android_client_info": {
+          "package_name": "com.example.tekort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqz3nS2z-gVHdUxsPeWKpveeTjdYgboZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
